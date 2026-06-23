@@ -79,7 +79,6 @@ Tools that live in your menu bar, mic, or screen — built for Apple Silicon.
 ## Health & Personal Data
 
 - 💪 **[Whoop Dashboard](https://github.com/georgenijo/whoop-dashboard)** — Recovery, sleep, strain, workouts in Next.js + SQLite. LLM coach with 5 server-side data tools and full tool-use persistence. Live at [coach.georgenijo.com](https://coach.georgenijo.com).
-- 🔗 **[whoop-bridge](https://github.com/georgenijo/whoop-bridge)** — Shared raw-data contract between Noop BLE capture and dashboard ingest — per-second HR, RR, skin-temp registers the official API never exposes.
 - ⌚ **[noop](https://github.com/georgenijo/noop)** — Offline WHOOP strap companion fork ([NoopApp/noop](https://github.com/NoopApp/noop)). Pairs over Bluetooth, stores biometrics locally, no cloud subscription.
 
 ---
