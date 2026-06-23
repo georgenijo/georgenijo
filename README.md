@@ -2,7 +2,7 @@
 
 📍 **Boston** · 🤖 **Supervisor of agents**
 
-I build weird things — cool random projects I want, because it's fun.
+I build cool random projects that I want to use because it's fun. Currently I'm token maxing.
 
 ---
 
