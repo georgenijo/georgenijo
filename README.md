@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-📍 **Boston** · **Boston supervisor of agents**
+📍 **Boston** · 🤖 **Supervisor of agents**
 
 I build weird things — cool random projects I want, because it's fun.
 
