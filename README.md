@@ -67,7 +67,7 @@ I build cool random projects that I want to use because it's fun. Currently I'm 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-georgenijo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/georgenijo)
-[![LinkedIn](https://img.shields.io/badge/-georgenijo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgenijo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-georgenijo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgenijo/)
 [![Portfolio](https://img.shields.io/badge/-georgenijo.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://georgenijo.com)
 
 ---
